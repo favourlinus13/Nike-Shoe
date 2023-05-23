@@ -31,7 +31,7 @@ html{
     height: 55rem;
     background: #eee;
     border-radius: 2.5rem;
-    box-shadow: 0 2rem 6rem rgba(0, 0, 0, .7);
+    box-shadow: 0 3rem 6rem rgba(200, 200, 200, .4);
     position: relative;
 }
 
